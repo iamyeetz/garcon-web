@@ -1,0 +1,41 @@
+// .itemimage{
+//     box-shadow: 0 5px 10px #0003;
+//     margin-bottom: 15px;
+//     display: flex;
+//     flex-direction: column;
+//     align-items: center;
+//     border-radius: 5px;
+//     overflow: hidden;
+//     text-decoration: none;
+//     position: relative;
+// }
+.itemcard
+{
+    box-shadow: 0 5px 10px #0003;
+    border-radius: 5px;
+    text-decoration: none;
+    color: white;
+    margin: 5px;
+    padding:5px;
+}
+.itemfooter{
+    display: flex;
+    flex-direction: column;
+    padding: 5px 20px;
+    background-color: #e4163d;
+    width: 100%;
+    text-align: left;
+    color:white;
+}
+.cardimage
+{
+    width: 100%;
+    height: 200px;
+    background-size: cover;
+    background-position: 50%;
+    position: relative;
+}
+.itemlink
+{
+    text-decoration: none;
+}

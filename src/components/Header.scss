@@ -1,0 +1,28 @@
+.header{
+    background-color: #e4163d;
+    color: white;
+    height: 60px;
+    display: flex;
+    padding: 0 10px;
+    justify-content: space-between;
+}
+.header-h1{
+    color:blue;
+    font-weight: bold;
+}
+.navbar-header{
+    display: flex;
+}
+.navbar-brand-image{
+    border: 1px solid white;
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-size: 24px;
+
+}
+.navbar-brand-title{
+    margin-left: 10px;
+}
+.align-items-center{
+    align-items: center;
+}

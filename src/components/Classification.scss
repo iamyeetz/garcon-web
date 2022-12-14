@@ -1,0 +1,23 @@
+.classification-image {
+    height: 120px;
+}
+.classification-card{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #e4163d;
+    border-radius: 5px;
+    text-decoration: none;
+    color: white;
+    margin: 10px;
+    padding:15px;
+}
+.classification-name
+{
+    font-size: 20px;
+    margin-top: 10px;
+}
+.classification-card:hover
+{
+   color:white;
+}

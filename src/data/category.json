@@ -1,0 +1,30 @@
+[
+    {
+        "id" : 1 ,
+        "name" : "Main Course",
+        "classification" : "Main",
+        "imageurl" : "assets/images/main.svg",
+        "route" : "/menu/menuitems"
+    },
+    {
+        "id" : 2 ,
+        "name" : "Appetizers",
+        "classification" : "Appetizer",
+        "imageurl" : "assets/images/appetizer.svg",
+        "route" : "/menu/menuitems"
+    },
+    {
+        "id" : 3 ,
+        "name" : "Desserts",
+        "classification" : "Dessert",
+        "imageurl" : "assets/images/dessert.svg",
+        "route" : "/menu/menuitems"
+    },
+    {
+        "id" : 4 ,
+        "name" : "Drinks",
+        "classification" : "Drink",
+        "imageurl" : "assets/images/drinks.svg",
+        "route" : "/menu/menuitems"
+    }
+]
